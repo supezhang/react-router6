@@ -1,0 +1,8 @@
+*{box-sizing: border-box;text-decoration: none;}
+
+.navlink-item{
+  color:#111;
+}
+.navlink-item.active{
+  color:#5d78ff;
+}

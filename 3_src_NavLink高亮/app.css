@@ -1,0 +1,11 @@
+*{box-sizing: border-box;text-decoration: none;}
+
+.navlink-item{
+  color:#111;
+  line-height:24px;
+  padding:0 10px;
+}
+.navlink-item.aguigu{
+  color:#5d78ff;
+  background:rgb(187, 187, 19);
+}

@@ -1,0 +1,20 @@
+.home-wrap{
+  padding:0 20px;
+}
+.home-tabs ul{
+  display:flex;
+  align-items: center;
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+.home-tabs ul li a{
+  display: block;
+  padding:0 10px;
+  font-size:14px;
+  color:#101010;
+  line-height: 24px;
+}
+.home-tabs ul li a.active{
+  color:#5d78ff;
+}
